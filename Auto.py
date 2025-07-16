@@ -2,7 +2,6 @@
 #------------------[ IMPORT ]-------------------#
 import os,sys,re,time,json,subprocess,platform
 import requests,bs4,string,hashlib
-import faker,fake,email,random
 from faker import Faker
 from bs4 import BeautifulSoup
 from bs4 import BeautifulSoup as parse
